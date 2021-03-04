@@ -1,0 +1,28 @@
+VISI 's an acronym that stands for very-large-scale integration, This
+somewhat nebulous term is used to collectively refer to the many ficlds of
+Hlectrieal and computer engineering that deal-wvith the analysis and
+design of very dense electronic integrated circuits. Although a strict defi-
+nition is difficult to come by; one commonly used metric is to say that a
+YLSI contains more than a million (105 or so switching devices or logle
+gates, Early in the first decade of the 21st century, the actual number of
+transistors (the switching devices) has exceeded 100 million (10°) for the
+more complex designs on a picce of silicon (a chip), which 's typically
+about 1 centimeter on a side.
+This book has been written to provide an understanding of the basics
+| of digitel VLSI chip design. Emphasis is placed on presenting the details
+of translating a system specification to a small piece of silicon, The treat-
+ment is very technical with many detalls. Some statements and analyses
+will appear immediately obvious, while others may not make sense until
+later chapters. This decurs because the fleld of VLSI engineering encom-
+passes several distinct “aréas of speciallzation” that mesh together in a
+unique manner. The most difficult aspect of learning VLSI is seeing the
+common theme that links the areas together. Once this is accomplished,
+you are on your way to understanding one of the most fascinating fields of
+modern tes.
+Complexity and Design
+aa
+naineering, " vist chip {s an extremely complex task. When attempting
+pp deserve the eld toa non-technical group. the idea of the “VLSI design
+Einnel shown "igute 1.1 helps break the toe. This views the process as
+provide the basic necessities such as money, an idea, and
+
